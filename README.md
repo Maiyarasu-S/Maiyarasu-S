@@ -25,6 +25,7 @@
 </a>
 <a href="https://www.behance.net/maiyarasu_s">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /> 
+</a>
 
 ---
 ## 🛠️ Technical Skills
